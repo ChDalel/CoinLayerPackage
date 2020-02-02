@@ -1,13 +1,14 @@
 # CoinLayerPackage
 
 *****
-The currency_conversion's function used to convert amount between one or multiple 
+## The convert_currency's function used to convert amount between one or multiple 
 
 Its parameters are:
-api : (access_key) is a unique identifier that identify the calling application or user.
-Symbol1 : is the code of the currency to convert from.
-Symbol2 : is the code of the currency to convert to.
-amount : is the amount to be converted.
+
+1. api : 'access_key' is a unique identifier that identify the calling application or user.
+2. Symbol1 : is the code of the currency to convert from.
+3. Symbol2 : is the code of the currency to convert to.
+4. amount : is the amount to be converted.
 *****
 
 *****
