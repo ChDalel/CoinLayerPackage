@@ -5,7 +5,7 @@
 
 Its parameters are:
 
-1. api : 'access_key' is a unique identifier that identify the calling application or user.
+1. api : `access_key` is a unique identifier that identify the calling application or user.
 2. Symbol1 : is the code of the currency to convert from.
 3. Symbol2 : is the code of the currency to convert to.
 4. amount : is the amount to be converted.
