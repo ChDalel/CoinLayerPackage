@@ -27,9 +27,9 @@
 
 ##### Its parameters are:
 
-api : `access_key` is a unique identifier that identify the calling application or user.
-start_date : is a start date for a time frame in `YYYY-MM-DD`format.
-end-date : is a an end date for a time frame in `YYYY-MM-DD` format.
-symbol: is one or multiple cryptocurrency symbols "separated with comma"
-target: is a target currency.
+1. api : `access_key` is a unique identifier that identify the calling application or user.
+2. start_date : is a start date for a time frame in `YYYY-MM-DD`format.
+3. end-date : is a an end date for a time frame in `YYYY-MM-DD` format.
+4. symbol: is one or multiple cryptocurrency symbols "separated with comma"
+5. target: is a target currency.
 *****
