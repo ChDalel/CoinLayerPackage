@@ -19,7 +19,7 @@
 1. api : (access_key) is a unique identifier that identify the calling application or user..
 2. symbol: is one or multiple cryptocurrency symbols "separated with comma"
 3. target: is a target currency (You can view all available symbols [here](https://coinlayer.com/target))
-. date : is a date in `YYYY-MM-DD` format.
+4. date : is a date in `YYYY-MM-DD` format.
 *****
 
 *****
