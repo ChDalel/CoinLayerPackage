@@ -6,7 +6,7 @@
 ##### Its parameters are:
 
 1. api : `access_key` is a unique identifier that identify the calling application or user.
-2. Symbol1 : is the code of the currency to convert from (to see the exixtants symbols click [here](https://coinlayer.com/symbols) ).
+2. Symbol1 : is the code of the currency to convert from (You can view all available values [here](https://coinlayer.com/symbols) ).
 3. Symbol2 : is the code of the currency to convert to.
 4. amount : is the amount to be converted.
 *****
@@ -18,7 +18,7 @@
 
 1. api : (access_key) is a unique identifier that identify the calling application or user..
 2. symbol: is one or multiple cryptocurrency symbols "separated with comma"
-3. target: is a target currency
+3. target: is a target currency (You can view all available symbols [here](https://coinlayer.com/target))
 . date : is a date in `YYYY-MM-DD` format.
 *****
 
@@ -30,6 +30,6 @@
 1. api : `access_key` is a unique identifier that identify the calling application or user.
 2. start_date : is a start date for a time frame in `YYYY-MM-DD`format.
 3. end-date : is a an end date for a time frame in `YYYY-MM-DD` format.
-4. symbol: is one or multiple cryptocurrency symbols "separated with comma"
+4. symbol: is one or multiple cryptocurrency symbols "separated with comma"(You can view all available values[here](https://coinlayer.com/symbols))
 5. target: is a target currency.
 *****
