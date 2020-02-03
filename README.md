@@ -6,7 +6,7 @@
 ##### Its parameters are:
 
 1. api : `access_key` is a unique identifier that identify the calling application or user.
-2. Symbol1 : is the code of the currency to convert from.
+2. Symbol1 : is the code of the currency to convert from (to see the exixtants symbols click [here](https://coinlayer.com/symbols) ).
 3. Symbol2 : is the code of the currency to convert to.
 4. amount : is the amount to be converted.
 *****
